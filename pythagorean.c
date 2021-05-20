@@ -26,5 +26,6 @@ int main(void) {
 		else
 			printf("No");
 	}
+	
 	printf("\n");
 }
