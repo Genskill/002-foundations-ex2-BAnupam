@@ -15,7 +15,7 @@ int main(void) {
 			printf("\n");
 		}
 	}
-	else if(t == 2)
+	else 
 	{
 		for(int i=0; i<n; i++)
 		{
@@ -29,9 +29,5 @@ int main(void) {
 			}
 			printf("\n");
 		}
-	}
-	else
-	{
-		printf("Invalid Input!");
 	}
 }
